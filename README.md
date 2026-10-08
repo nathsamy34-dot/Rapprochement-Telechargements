@@ -1,9 +1,9 @@
 # Rapprochement Comptable — Téléchargements
 
 Page officielle de téléchargement de **Rapprochement Comptable**, l'application
-Windows de rapprochement entre vos deux logiciels comptables.
+de rapprochement entre vos deux logiciels comptables, pour Windows et macOS.
 
-## Installer ou mettre à jour
+## Installer ou mettre à jour — Windows
 
 ➡️ **[Télécharger la dernière version](https://github.com/nathsamy34-dot/Rapprochement-Telechargements/releases/latest)**
 — prenez le fichier `Rapprochement-Comptable-X.Y.Z-Setup.exe`.
@@ -21,10 +21,31 @@ version et conserve toutes vos données, préférences et licence. L'application
 vous signale d'ailleurs elle-même, au lancement, quand une nouvelle version est
 disponible ici.
 
+## Installer ou mettre à jour — macOS
+
+➡️ **[Télécharger la dernière version](https://github.com/nathsamy34-dot/Rapprochement-Telechargements/releases/latest)**
+— prenez le fichier DMG correspondant à votre Mac :
+
+- `…-arm64.dmg` pour un Mac **Apple Silicon** (M1, M2, M3, M4…) ;
+- `…-x86_64.dmg` pour un Mac **Intel**.
+
+(Menu  > « À propos de ce Mac » indique la puce de votre machine.)
+
+1. Ouvrez le DMG téléchargé et glissez **Rapprochement Comptable** dans
+   **Applications**.
+2. Au premier lancement, macOS (Gatekeeper) peut refuser d'ouvrir une
+   application téléchargée hors de l'App Store : **clic droit sur
+   l'application → « Ouvrir » → « Ouvrir »**. L'avertissement est normal
+   pour un logiciel non notarié ; il ne s'affiche qu'une fois.
+
+**Mise à jour :** même geste — le nouveau glisser-déposer remplace l'ancienne
+version dans Applications et conserve toutes vos données, préférences et
+licence.
+
 ## Prérequis
 
-- Windows 10 ou 11, 64 bits.
-- C'est tout.
+- **Windows** 10 ou 11, 64 bits — c'est tout.
+- **macOS** : Mac Apple Silicon ou Intel — c'est tout.
 
 ## Au premier lancement
 
